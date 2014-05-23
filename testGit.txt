@@ -1,1 +1,2 @@
 woooords and things
+git config --global push.default matching (((or simple)))
